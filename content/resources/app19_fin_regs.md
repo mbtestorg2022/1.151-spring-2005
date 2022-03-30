@@ -5,6 +5,7 @@ description: 'This file discusses the topics: Fitting a Simple Linear Regression
   of the Modeling Assumptions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/ada580810f06295de7d76f3336393fcd_app19_fin_regs.pdf
 file_type: application/pdf
+parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: app19_fin_regs.pdf
 uid: ada58081-0f06-295d-e7d7-6f3336393fcd

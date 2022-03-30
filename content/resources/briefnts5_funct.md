@@ -4,6 +4,7 @@ description: This file discusses the functions of one random variable, and funct
   of two or more variables.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/07f7c4336039bf4aa6526d711ba1e4e2_briefnts5_funct.pdf
 file_type: application/pdf
+parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: briefnts5_funct.pdf
 uid: 07f7c433-6039-bf4a-a652-6d711ba1e4e2

@@ -5,6 +5,7 @@ description: 'This file discusses the topics: Conditional Distributions of Varia
   Unbiased Estimation (BLUE) Theory.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/c6d71d6540a6c7ec965e94ca5358ffd0_app15_noisy_obs.pdf
 file_type: application/pdf
+parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: app15_noisy_obs.pdf
 uid: c6d71d65-40a6-c7ec-965e-94ca5358ffd0

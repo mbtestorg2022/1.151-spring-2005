@@ -5,6 +5,7 @@ description: 'This resource includes assignments based on the following topics: 
   Independence, Bayes'' Theorem.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/9b29722140570e99c46770043be53586_homework_1_2005.pdf
 file_type: application/pdf
+parent_uid: 2040fa25-17c5-2a0c-07ea-884c375ebc78
 resourcetype: Document
 title: homework_1_2005.pdf
 uid: 9b297221-4057-0e99-c467-70043be53586
