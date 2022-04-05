@@ -5,6 +5,11 @@ description: This file discusses the topic 'Is the Series of Rainy/Non-Rainy Day
   in binary time series.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/0ee92b3cf4331b9dac9ac0fbe1ea53da_app5_rain_norain.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: app5_rain_norain.pdf

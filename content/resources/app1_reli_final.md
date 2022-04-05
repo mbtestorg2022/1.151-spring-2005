@@ -4,6 +4,11 @@ description: This resource includes information on series and parallel systems, 
   systems, more complicated system configurations, and systems that ?share the load.?
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/39650745d241175c8557bdefc67f676b_app1_reli_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: app1_reli_final.pdf

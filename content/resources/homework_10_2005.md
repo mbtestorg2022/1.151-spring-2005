@@ -5,6 +5,11 @@ description: 'This resource contains 4 problem statements based on the following
   Bayesian Analysis.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/99126d861d9b4e42d85f558ffdc6478d_homework_10_2005.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2040fa25-17c5-2a0c-07ea-884c375ebc78
 resourcetype: Document
 title: homework_10_2005.pdf

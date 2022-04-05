@@ -4,6 +4,11 @@ description: This resource includes a problem to sketch the failure boundary, an
   calculate the second moment reliability index.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/c9f004ad81df5dc754e4897821e44b0f_homework_9_2005.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2040fa25-17c5-2a0c-07ea-884c375ebc78
 resourcetype: Document
 title: homework_9_2005.pdf

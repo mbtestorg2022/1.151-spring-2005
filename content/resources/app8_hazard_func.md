@@ -4,6 +4,11 @@ description: This file discusses the reliability of old and new items using the 
   function.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-151-probability-and-statistics-in-engineering-spring-2005/447ebaa4f54b62422663cbde5e41b9ea_app8_hazard_func.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 91eb0b32-4b9e-7374-b85b-2bb1f623dfa2
 resourcetype: Document
 title: app8_hazard_func.pdf
